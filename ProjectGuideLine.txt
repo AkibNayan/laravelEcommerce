@@ -1,0 +1,36 @@
+Ecommerce Project
+=============================
+Product Management Module List
+1. Brand		-> Done
+2. Category		-> Done
+3. Product		-> Done
+4. Product Image  -> Done - Error on Update and Delete
+
+Admin Setting Module List
+5. Division		-> Done
+6. District		-> Done
+7. Frontend Integrate	-> Done
+8. Multi Auth Laravel Breeze Install 	-> Done
+All Template Masking with the Admin Template Page	-> Done
+- Email Verification and SMTP Setup -> Done
+9. User Profile Update and Validation	-> Done
+-- Customer Dashboard, profile information update, order status, previous order history pages need to create	-> Done
+10. Category Wise Product Page	-> Done
+11. Search Based on Title, Description, Tag	-> Done
+12. Cart	-> Done
+13. Payment Gateway Integration	-> Done
+14. Order Table & Data Store -> Done
+15. After order, Update the Cart table with Order Id Confirmation -> Done
+15. Home Page Product Decoration -> Done
+16. Checkout -> Finishing Touch Up
+20. Notification Integration -> Done
+21. Invoice Generate and Show -> Done
+
+17. Customer Order Page -> Product and Product Details
+18. Admin Order Received / Update Notification with Order Management
+19. Product Rating Assignment -> Size / Color & Multiple Search
+
+22. Coupon Code
+23. Email Template Integration for new Order
+24. District & Division with Ajax
+

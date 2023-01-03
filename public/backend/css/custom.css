@@ -1,0 +1,84 @@
+.table-action ul {
+    padding: 0;
+    margin: 0;
+}
+.table-action ul li {
+    list-style: none;
+    display: inline;
+    margin: 0 5px !important;
+}
+.table-action ul li .fa-edit {
+    color: #23BF08;
+}
+.table-action ul li .fa-trash {
+    color: #DC3545;
+}
+.modal-buttons form{
+    display: inline;
+    margin-left: 5px !important;
+}
+.modal-buttons a {
+    margin-right: 5px !important;
+}
+.table-bordered {
+    margin: 0;
+}
+.alert {
+    margin: 0;
+}
+/* Backend Admin Login Page CSS */
+.login-wrapper .mb-4{
+    background: #800000;
+    padding: 8px 20px;
+    color: #fff;
+}
+.login-wrapper .mb-4 ul {
+    list-style: none;
+    padding: 0;
+}
+/* Backend Admin Register Page CSS */
+.pd-xs-40{
+    padding: 22px;
+}
+
+.password-wrapper .mb-4{
+    background: #eee !important;
+    color: #333 !important;
+}
+/* Order Details */
+.order-summery-box{
+    border: 1px solid #eee;
+    padding: 15px;
+    min-height: 215px;
+}
+.order-summery-box p{
+    margin: 0;
+    line-height: 1.8em;
+}
+.order-summery-box p span{
+    color: black
+}
+.order-summery-box .badge{
+    border-radius: 2px;
+    padding: 5px 8px;
+    color: #fff;
+}
+.product-list-heading{
+    margin: 50px 0px 20px;
+}
+.change-order-status{
+    margin-top: 20px;
+    margin-bottom: 2px;
+}
+.change-order-status .fa-edit{
+    margin-left: 16px;
+    color: #1fbd1f;
+}
+.change-order-status a{
+    color: #000;
+    font-size: 14px;
+    font-weight: 400;
+}
+.message-note .alert{
+    min-height: 130px;
+}
